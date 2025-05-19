@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sundev34
-- 👀 I’m interested in programming languages, compilers, os systems, programming design patterns, software engineering
+- 👀 I’m interested in programming languages, compilers, os systems, programming design patterns, software engineering, finance
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dmqroberts@outlook.com
