@@ -6,7 +6,7 @@ I assist in building and maintaining **140+ ultrafast, low-latency applications*
 
 #### ABOUT ME
 
-- Was borned and raised in the **Bahamas**
+- Was borned and raised in the **Bahamas** (17 YRs)
 - Graduated from **UARK** in 2024 🐗
 - Previously worked in **Manhattan**, now based in **London**
 
