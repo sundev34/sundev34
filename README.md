@@ -27,7 +27,7 @@ I assist in building and maintaining **140+ ultrafast, low-latency applications*
 #### TECH
 ```
 Languages   →  C++ (primary), Python (scripting), Bash
-Domain      →  Market data, FIX/FAST protocol, low-latency networking, TCP/UDP
+Domain      →  Market data, FIX/FAST, TCP/UDP, low-latency networking, linux
 Platform    →  RHEL
 Focus       →  Performance · Correctness · Maintainability · Reliability · Scalability
 ```
