@@ -4,6 +4,10 @@ I assist in building and maintaining **140+ ultrafast, low-latency applications*
 
 *I believe the best software is the kind your teammates can understand, trust, and build on.*
 
+<p align="left">
+  <img src="https://github.com/sundev34/sundev34/blob/main/invest.gif?raw=true" alt="" width="75"/>
+</p>
+
 #### ABOUT ME
 
 - Was borned and raised in the **Bahamas** (17 YRs)
@@ -29,8 +33,6 @@ Focus       →  Performance · Correctness · Maintainability · Reliability ·
 ```
 > *"Anyone can build something complex; it takes a genius to make it simple."* — Woody Guthrie
 
-<p align="left">
-  <img src="https://github.com/sundev34/sundev34/blob/main/invest.gif?raw=true" alt="" width="200"/>
-</p>
+
 
 
