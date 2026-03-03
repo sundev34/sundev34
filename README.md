@@ -28,3 +28,9 @@ Platform    →  RHEL
 Focus       →  Performance · Correctness · Maintainability · Reliability · Scalability
 ```
 > *"Anyone can build something complex; it takes a genius to make it simple."* — Woody Guthrie
+
+<p align="left">
+  <img src="https://github.com/sundev34/sundev34/blob/main/invest.gif?raw=true" alt="" width="200"/>
+</p>
+
+
